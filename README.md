@@ -1,5 +1,6 @@
 # Cohort-Analysis-for-assessing-customer-retention-in-E-commerce-industry
-[certificate.pdf](https://github.com/user-attachments/files/24676546/certificate.pdf)
+
+<img width="999" height="711" alt="Screenshot 2026-01-16 110051" src="https://github.com/user-attachments/assets/bea79c47-24e4-4c65-a6b3-df6146e0d5f3" />
 
 
 # Project Overview
